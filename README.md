@@ -1,4 +1,8 @@
 # Jason Jones
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonjones2119-svg&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjones2119-svg&layout=compact&theme=dark)
+
 
 Aspiring AI Engineer building real-world projects with C#, .NET, and Python.
 
