@@ -6,7 +6,7 @@
 
 Aspiring AI Engineer building real-world projects with C#, .NET, and Python.
 
-Focused on disciplined skill progression, clean architecture, and shipping functional software — not just tutorials.
+Focused on disciplined skill progression, clean architecture, and shipping functional software.
 
 ---
 
